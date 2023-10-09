@@ -67,7 +67,7 @@ The API provides the following endpoints:
     },
     "notes": "A great city!",
     "emoji": "🗽"
-  }
+    }
   ```
 
 ## Contributing
