@@ -1,0 +1,63 @@
+{
+    "cities": [
+      {
+        "cityName": "Chikun",
+        "position": {
+          "lat": 40,
+          "lng": 0
+        },
+        "id": 11111,
+        "notes": "kfknklnfkefkn",
+        "emoji": "🇳🇬",
+        "date": "2017-04-12"
+      },
+      {
+        "cityName": "Nabirat",
+        "emoji": "🇫🇷",
+        "country": "France",
+        "date": "2023-09-17T00:01:58.275Z",
+        "notes": "uyyuu",
+        "position": {
+          "lat": "44.77793589631623",
+          "lng": "1.2744140625000002"
+        },
+        "id": 11114
+      },
+      {
+        "cityName": "Est-Mono",
+        "emoji": "🇹🇬",
+        "country": "Togo",
+        "date": "2023-09-17T00:06:02.653Z",
+        "notes": "kfjfv",
+        "position": {
+          "lat": "8.233237111274565",
+          "lng": "1.40625"
+        },
+        "id": 11115
+      },
+      {
+        "cityName": "Rimaucourt",
+        "emoji": "🇫🇷",
+        "country": "France",
+        "date": "2023-09-17T00:18:14.455Z",
+        "notes": "test",
+        "position": {
+          "lat": "48.22467264956519",
+          "lng": "5.361328125"
+        },
+        "id": 11116
+      },
+      {
+        "cityName": "Villar del Buey",
+        "emoji": "🇪🇸",
+        "country": "Spain",
+        "date": "2023-10-09T09:57:40.790Z",
+        "notes": "kjm nk jo nvknl vkj v",
+        "position": {
+          "lat": "41.25454822529881",
+          "lng": "-6.301332751213816"
+        },
+        "id": 11117
+      }
+    ]
+  }
